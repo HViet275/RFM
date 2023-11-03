@@ -5,7 +5,7 @@ This project focuses on identifying distinct customer segments based on their pu
 
  * Data Analysis with SQL: I use SQL to analyze customer behavior in terms of recency, frequency, and monetary value, forming the foundation for effective customer segmentation.
 
- * Power Query Data Extraction: I use Power Query to extract and transform data, preparing it for deeper insights
+ * Interactive Dashboards with Power BI: Leveraging the capabilities of Power BI, I create visually appealing and interactive dashboards that allow us to visualize and communicate our findings effectively."
 
  * Power BI Interactive Dashboards: I use Power BI to create visually appealing, interactive dashboards for effective data visualization and communication.
 ## Tech-stack - IDE
