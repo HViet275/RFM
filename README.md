@@ -1,5 +1,6 @@
 ### RFM Customer Segmentation Dashboard
 [Download DATASET](https://drive.google.com/drive/folders/1jf_oIfKXgbbzbXv93_Kk8XgNdc31hWm8?usp=sharing)
+[Download Dashboard PDF](https://drive.google.com/drive/folders/1TVh8amK6vIdPELCMsbF9hYJjIr4T-oEk?usp=sharing)
 ## Overview
 This project focuses on identifying distinct customer segments based on their purchasing behavior and value. Our process involves the following key steps:
 
